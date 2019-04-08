@@ -15,5 +15,5 @@ Route::get('/', function () {
     return view('mai');
 });
 Route::get('products',function(){
-    return view('mai');
+    return view('ben');
 });
